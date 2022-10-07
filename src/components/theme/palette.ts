@@ -1,6 +1,6 @@
 import { alpha } from '@mui/material/styles';
 // utils
-import createGradient from '../utils/createGradient';
+import createGradient from '../../utils/createGradient';
 
 // ----------------------------------------------------------------------
 
