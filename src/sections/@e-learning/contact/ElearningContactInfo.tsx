@@ -61,7 +61,7 @@ export default function ElearningContactInfo() {
                   sx={{ typography: 'subtitle2' }}
                 />
 
-                <Typography variant="body2">(907) 555-0101</Typography>
+                <Typography variant="body2">+91 9801917999</Typography>
               </Stack>
 
               <Stack spacing={1}>
@@ -71,7 +71,7 @@ export default function ElearningContactInfo() {
                   sx={{ typography: 'subtitle2' }}
                 />
                 <Typography variant="body2">
-                  Jwagal, Lalitpur, Nepal
+                  Biratnagar, Nepal
                 </Typography>
               </Stack>
 

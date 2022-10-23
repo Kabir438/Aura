@@ -36,7 +36,7 @@ export default function CareerContactInfo() {
           <Typography variant="subtitle2" sx={{ color: 'primary.main' }}>
             Phone
           </Typography>
-          <Typography variant="body2">(907) 555-0101</Typography>
+          <Typography variant="body2">+91 9801917999</Typography>
         </Stack>
 
         <Stack spacing={1}>

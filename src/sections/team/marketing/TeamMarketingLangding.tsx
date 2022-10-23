@@ -109,7 +109,7 @@ export default function TeamMarketingLangding({ members }: Props) {
   return (
     <RootStyle>
       <ContainerStyle>
-        <Grid container spacing={3} justifyContent="space-between">
+        <Grid container spacing={1} justifyContent="space-between">
           <Grid item xs={12} md={4}>
             <Stack sx={{ textAlign: { xs: 'center', md: 'unset' } }}>
               <Typography variant="overline" sx={{ color: 'grey.600' }}>
@@ -119,7 +119,7 @@ export default function TeamMarketingLangding({ members }: Props) {
                 Meet Our Founder
               </Typography>
               <Typography sx={{ color: 'common.white' }}>
-                TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD 
+                Raghav Mundara is a 12th grader pursuing the ISC curriculum. He is the School Captain of The Doon School, Dehradun. He aspires to be a businessman and has embarked on this journey on a relatively young age by using the capital resources of a holding company to enter the hygiene market of Nepal during Covid. His interest lie in Economics and Psychology, and on the same front, he is the Editor-in-Chief of The Altruist, the School{"'"}s Psychology publication. He plays the guitar and is also the School Dance Captain. On the field, he is a part of the school hockey and football teams. Furthermore, he is also School Boxing Captain. An all-rounder who believes in holistic development and accredits intangibles more than his achievements for shaping his personality.
               </Typography>
             </Stack>
           </Grid>

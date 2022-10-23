@@ -45,48 +45,11 @@ export default function MarketingLandingHero() {
         }} columnSpacing={0} justifyContent="space-between" alignItems="center">
           <Grid item xs={12} md={6} lg={5} sx={{ textAlign: { xs: 'center', md: 'left' } }}>
             <Stack spacing={5}>
-              <Typography variant="h1">Boosts Your Website Traffic</Typography>
+              <Typography variant="h1">Aura Nepal</Typography>
 
               <Typography sx={{ color: 'text.secondary' }}>
-                Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis
-                venenatis ante odio sit amet eros.
+              We were there to step up when others couldn’t step out <br/>- Raghav Mundara
               </Typography>
-
-              <Stack
-                direction={{ xs: 'column', sm: 'row' }}
-                justifyContent={{ xs: 'center', md: 'unset' }}
-                spacing={3}
-              >
-                <Button
-                  disableRipple
-                  color="inherit"
-                  size="large"
-                  startIcon={
-                    <Box
-                      sx={{
-                        width: 48,
-                        height: 48,
-                        display: 'flex',
-                        borderRadius: '50%',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        border: (theme) => `solid 2px ${alpha(theme.palette.primary.main, 0.24)}`,
-                      }}
-                    >
-                      <Iconify
-                        icon={playIcon}
-                        sx={{ width: 24, height: 24, color: 'primary.main' }}
-                      />
-                    </Box>
-                  }
-                  sx={{
-                    px: 0,
-                    '&:hover': { bgcolor: 'transparent' },
-                  }}
-                >
-                  See Our Work
-                </Button>
-              </Stack>
             </Stack>
           </Grid>
           <Grid

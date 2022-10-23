@@ -73,7 +73,7 @@ export default function MarketingLandingServices() {
           </Typography>
 
           <Typography sx={{ color: 'text.secondary' }}>
-            We Provide high quality hygene products in Nepal.
+            We sell high quality hygene products in Nepal.
           </Typography>
         </Stack>
 

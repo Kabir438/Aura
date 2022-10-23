@@ -11,9 +11,9 @@ const LAT_LONG = [
 export const _offices = ['Nepal'].map((office, index) => ({
   id: _mock.id(index),
   country: office,
-  address: `Jwagal, Lalitpur, Nepal`,
+  address: `Biratnagar, Nepal`,
   phoneNumber: _mock.phoneNumber(index),
   email: "raghavmundara2005@gmail.com",
   photo: "/idk/Profile.png",
-  latlng: [27.6936794,85.2818743],
+  latlng: [26.4482124,87.2718072],
 }));

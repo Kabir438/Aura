@@ -86,7 +86,7 @@ export default function MarketingFreeSEO() {
               sx={{ color: 'common.white' }}
             >
               <Iconify icon={locationIcon} sx={{ width: 24, height: 24 }} />
-              <Typography>Jwagal, Lalitpur, Nepal</Typography>
+              <Typography>Biratnagar, Nepal</Typography>
             </Stack>
           </Grid>
 

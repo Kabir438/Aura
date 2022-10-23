@@ -63,7 +63,7 @@ export default function MarketingServicesInclude() {
         >
           <Typography variant="h2">Products Include</Typography>
           <Typography sx={{ color: 'text.secondary' }}>
-            Our Products range from bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+            Our Products range hygiene essentials to cosmetics
           </Typography>
         </Stack>
 

@@ -45,37 +45,30 @@ export default function MarketingLandingAbout() {
             </Typography>
 
             <Typography variant="h2" sx={{ mt: 2, mb: 3 }}>
-              Who We Are
+              What We Do
             </Typography>
 
             <Typography sx={{ color: 'text.secondary' }}>
-              In hac habitasse platea dictumst. Aliquam lobortis. Lorem ipsum dolor sit amet,
-              consectetuer adipiscing elit. In dui magna, posuere eget, vestibulum et, tempor
-              auctor, justo. Pellentesque habitant morbi tristique senectus et netus et malesuada
-              fames ac turpis egestas.
+              With products ranging from hygiene to cosmetics, we believe in quality over quantity. This company was established as a small scale industry to provide for the Covid outbreak, but today, we proudly stand as one of the trusted brands dedicating our success to our consumers and employees. Our marketing is done through social media and we have specialists hired in each department with deep knowledge in their field. We believe in building lives as we built this company- with love, with dedication, and with ambition.
             </Typography>
-
-            <Button size="large" endIcon={<Iconify icon={directionStraightRight} />} sx={{ mt: 5 }}>
-              Lean more
-            </Button>
           </Grid>
 
           <Grid item xs={12} md={6}>
             <Stack spacing={5}>
               <LineItem
-                total="150"
+                total="15"
                 label="products"
-                text="Praesent turpis. Praesent blandit laoreet nibh. Nunc nonummy metus."
+                text="Starting with masks and sanitisers, we diversified into cosmetics to expand and increase market share."
               />
               <LineItem
                 total={fShortenNumber(27000)}
                 label="followers"
-                text="Praesent turpis. Praesent blandit laoreet nibh. Nunc nonummy metus."
+                text="Created brand image because of promising quality of products across 5+ cities in Nepal."
               />
               <LineItem
                 total="2"
                 label="years of experience"
-                text="Praesent turpis. Praesent blandit laoreet nibh. Nunc nonummy metus."
+                text="Started as an experiment and transformed into one of the most trusted sellers."
               />
             </Stack>
           </Grid>
