@@ -123,7 +123,7 @@ export default function TeamMarketingLangding({ members }: Props) {
               </Typography>
             </Stack>
           </Grid>
-          <Grid item xs={12} md={7}>
+          <Grid item xs={1} md={1}>
             <Box ref={containerRef} />
           </Grid>
         </Grid>
@@ -132,7 +132,7 @@ export default function TeamMarketingLangding({ members }: Props) {
       <Box
         sx={{
           pl: `${offsetLeft}px`,
-          width: { md: `calc(100% + 120px)` },
+          width: { xs: "100%", sm: `100%`, md: `calc(100% + 120px)`, lg: ``, xl: `` },
         }}
       >
         {/* <Slider ref={carouselRef} {...carouselSettings}> */}
@@ -140,7 +140,7 @@ export default function TeamMarketingLangding({ members }: Props) {
             <Box
               key={member.id}
               sx={{
-                ml: '150px',
+                ml: {sm: "0px", md: '-350px', lg: '-350px', xl: '-350px'},
                 pl: { xs: 2, md: 4 },
                 pr: { xs: 2, md: 0 },
                 color: 'common.white',

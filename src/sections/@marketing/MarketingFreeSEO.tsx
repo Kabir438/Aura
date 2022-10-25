@@ -73,8 +73,8 @@ export default function MarketingFreeSEO() {
               sx={{ color: 'common.white', mb: 2 }}
             >
               <Iconify icon={emailIcon} sx={{ width: 24, height: 24 }} />
-              <Link color="inherit" href="mailto:raghavmundara2005@gmail.com">
-                raghavmundara2005@gmail.com
+              <Link color="inherit" href="mailto:raghavmundara080905@gmail.com">
+                raghavmundara080905@gmail.com
               </Link>
             </Stack>
 

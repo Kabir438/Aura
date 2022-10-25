@@ -49,8 +49,8 @@ export default function ElearningContactInfo() {
                   value="Email"
                   sx={{ typography: 'subtitle2' }}
                 />
-                <Link color="inherit" variant="body2" href="mailto:raghavmundara2005@gmail.com">
-                  raghavmundara2005@gmail.com
+                <Link color="inherit" variant="body2" href="mailto:raghavmundara080905@gmail.com">
+                  raghavmundara080905@gmail.com
                 </Link>
               </Stack>
 
@@ -61,7 +61,8 @@ export default function ElearningContactInfo() {
                   sx={{ typography: 'subtitle2' }}
                 />
 
-                <Typography variant="body2">+91 9801917999</Typography>
+                <Typography variant="body2">+977 9818377761</Typography>
+                <Typography variant="body2">+91 7973426409</Typography>
               </Stack>
 
               <Stack spacing={1}>

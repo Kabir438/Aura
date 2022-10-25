@@ -13,7 +13,7 @@ export const _offices = ['Nepal'].map((office, index) => ({
   country: office,
   address: `Biratnagar, Nepal`,
   phoneNumber: _mock.phoneNumber(index),
-  email: "raghavmundara2005@gmail.com",
+  email: "raghavmundara080905@gmail.com",
   photo: "/idk/Profile.png",
   latlng: [26.4482124,87.2718072],
 }));

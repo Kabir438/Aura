@@ -33,7 +33,7 @@ export default function SocialsButton({
       name: 'FaceBook',
       icon: logoFacebook,
       socialColor: '#1877F2',
-      path: links.facebook || '#facebook-link',
+      path: "/contact-us"
     }
   ];
 
@@ -42,7 +42,7 @@ export default function SocialsButton({
       {SOCIALS.map((social) => {
         const { name, icon, path, socialColor } = social;
         return simple ? (
-          <Link key={name} href={path}>
+          <Link key={name} target="_blank" href={"https://www.facebook.com/theauranepal"}>
             <IconButton
               color="inherit"
               sx={{
