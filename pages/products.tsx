@@ -28,7 +28,7 @@ const RootStyle = styled('div')(({ theme }) => ({
 
 export default function MarketingServicesPage() {
   return (
-    <Page title="Services - Marketing">
+    <Page title="Products - Aura Nepal">
       <RootStyle>
         <MarketingServicesInclude />
       </RootStyle>

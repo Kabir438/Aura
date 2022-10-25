@@ -32,7 +32,7 @@ type Props = {
 
 export default function MarketingLandingPage({ posts, caseStudies }: Props) {
   return (
-    <Page title="Landing - Marketing">
+    <Page title="Aura Nepal">
       <MarketingLandingHero />
 
       <MarketingLandingAbout />

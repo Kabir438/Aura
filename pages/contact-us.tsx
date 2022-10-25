@@ -24,7 +24,7 @@ const RootStyle = styled('div')(({ theme }) => ({
 
 export default function ElearningContactUsPage() {
   return (
-    <Page title="Contact Us - E-Learning">
+    <Page title="Contact Us - Aura Nepal">
       <RootStyle>
         <ElearningContactInfo />
         <ElearningContactForm />
