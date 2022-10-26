@@ -56,7 +56,7 @@ export default function MarketingLandingAbout() {
           <Grid item xs={12} md={6}>
             <Stack spacing={5}>
               <LineItem
-                total="15"
+                total="20"
                 label="products"
                 text="Starting with masks and sanitisers, we diversified into cosmetics to expand and increase market share."
               />

@@ -14,7 +14,7 @@ interface Props extends BoxProps {
 const Page = forwardRef<HTMLDivElement, Props>(({ children, meta, title, ...other }, ref) => (
   <>
     <Head>
-      <title>{`${title}`}</title>
+      <title>{title}</title>
       {meta}
     </Head>
 
